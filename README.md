@@ -61,7 +61,7 @@ Kansas City, MO <br/>
 - SQL, PostgreSQL, Oracle
 - Git / Github
 - APIs (Retrieval with REST APIs into real-time production code)
-- Google Analytics Individual Qualification [https://skillshop.exceedlms.com/student/award/gSjMPAqngZTAwcDdY2ogRYsQ](Completion ID: 37660920)
+- Google Analytics Individual Qualification [Completion ID: 37660920](https://skillshop.exceedlms.com/student/award/gSjMPAqngZTAwcDdY2ogRYsQ)
 - Tableau
 - Command Line / Bash
   
