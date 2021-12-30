@@ -1,2 +1,11 @@
+# Set theme
 theme: jekyll-theme-minimal
-site.title: Allie Bergmann
+
+# Name of Site
+title: Allie Bergmann
+
+# Your name to show in the footer
+author: Allison Bergmann
+
+
+google_analytics: "216084922"
