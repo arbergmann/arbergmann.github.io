@@ -1,13 +1,13 @@
 ## Table of Contents
 1. [CV](#cv)
-  * [Professional Summary](#prof-summary)
-  * [Professional Experience](#prof-experience)
-  * [Skills](#skills)
-  * [Education](#education)
+    * [Professional Summary](#prof-summary)
+    * [Professional Experience](#prof-experience)
+    * [Skills](#skills)
+    * [Education](#education)
 2. [Projects](#projects)
-  * [Project 1](#proj1)
-  * [Project 2](#proj2)
-  * [Project 3](#proj3)
+    * [Project 1](#proj1)
+    * [Project 2](#proj2)
+    * [Project 3](#proj3)
 
 
 # <a name="cv"></a>CV
