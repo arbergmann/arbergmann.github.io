@@ -1,20 +1,20 @@
 ## Table of Contents
 1. [CV](#cv)
-- [Professional Summary](#prof-summary)
-- [Professional Experience](#prof-experience)
-- [Skills](#skills)
-- [Education](#education)
+  a. [Professional Summary](#prof-summary)
+  b. [Professional Experience](#prof-experience)
+  c. [Skills](#skills)
+  d. [Education](#education)
 2. [Projects](#projects)
-- [Project 1](#proj1)
-- [Project 2](#proj2)
-- [Project 3](#proj3)
+  a. [Project 1](#proj1)
+  b. [Project 2](#proj2)
+  c. [Project 3](#proj3)
 
 
-# CV <a name="cv"></a>
-## Professional Summary <a name="prof-summary"></a>
+# <a name="cv"></a>CV
+## <a name="prof-summary"></a>Professional Summary
 A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies. Hoping to continue on my career path to pursue a more data science-centric role, preferably in the BI domain.
 
-## Professional Experience <a name="prof-experience"></a>
+## <a name="prof-experience"></a>Professional Experience
 ### <b><span style="color:#0C54A4">Edward Jones</span>
 <i>February 2020 - Present</i><br/>
 Saint Louis, MO <br/>
@@ -55,7 +55,7 @@ Kansas City, MO <br/>
 - Designed an exit strategy based on an alpha decay model to improve capture rate.
 - Developed a Jupyter library of technical analysis indicators and corresponding optimal parameters strategies.
 
-## Skills <a name="skills"></a>
+## <a name="skills"></a>Skills
 <b>Languages/Programs</b>
 - Python (pandas, numpy, scikit-learn, statsmodels, matplotlib, pySpark, Altair)
 - SQL, PostgreSQL, Oracle
@@ -72,7 +72,7 @@ Kansas City, MO <br/>
   
 <b>Currently Studying:</b> PowerBI, Snowflake/Azure/Cloud Computing and Storage, Spark/Hadoop 
 
-## Education <a name="education"></a>
+## <a name="education"></a>Education
 ### University of Michigan, School of Information
 <b>Master of Applied Data Science</b><br/>
 <i>September 2019 - December 2021</i>
@@ -93,14 +93,14 @@ Kansas City, MO <br/>
 - Monsters of Design Award, Contract Inspirations Award for Practice, AIA Kansas Excellence in Architecture Design Award, AIA Kansas Concept Honor Award
 - Study Abroad in Florence, Italy (Class focus in Language and Arts)
 
-# Projects <a name="projects"></a>
-## Project 1 <a name="proj1"></a>
+# <a name="projects"></a>Projects
+## <a name="proj1"></a>Project 1 
   Content tbd
   
-## Project 2 <a name="proj2"></a>
+## <a name="proj2"></a>Project 2
   Content tbd
   
-## Project 3 <a name="proj3"></a>
+## <a name="proj3"></a>Project 3
   Content tbd
 <!--
 
