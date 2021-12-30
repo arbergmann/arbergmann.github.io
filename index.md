@@ -1,7 +1,15 @@
 ## Table of Contents
-[Headers](#headers)
+[CV](# CV)
+- [Professional Summary](## Professional Summary)
+- [Professional Experience](## Professional Experience)
+- [Skills](## Skills)
+- [Education](## Education)
+[Projects](# Projects)
+- [Project 1](## Project 1)
+- [Project 2](## Project 2)
+- [Project 3](## Project 3)
 
-# 1.CV
+# CV
 ## Professional Summary
 A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies. Hoping to continue on my career path to pursue a more data science-centric role, preferably in the BI domain.
 
@@ -83,7 +91,16 @@ Kansas City, MO <br/>
 <i>September 2011 -  August 2014</i>
 - Monsters of Design Award, Contract Inspirations Award for Practice, AIA Kansas Excellence in Architecture Design Award, AIA Kansas Concept Honor Award
 - Study Abroad in Florence, Italy (Class focus in Language and Arts)
+
+# Projects
+## Project 1
+  Content tbd
   
+## Project 2
+  Content tbd
+  
+## Project 3
+  Content tbd
 <!--
 
 ## Table of Contents
