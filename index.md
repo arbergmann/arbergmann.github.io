@@ -1,13 +1,13 @@
 ## Table of Contents
-[CV](# CV)
-- [Professional Summary](## Professional Summary)
-- [Professional Experience](## Professional Experience)
-- [Skills](## Skills)
-- [Education](## Education)
-[Projects](# Projects)
-- [Project 1](## Project 1)
-- [Project 2](## Project 2)
-- [Project 3](## Project 3)
+[CV](#CV)
+- [Professional Summary](##Professional Summary)
+- [Professional Experience](##Professional Experience)
+- [Skills](##Skills)
+- [Education](##Education)
+[Projects](#Projects)
+- [Project 1](##Project 1)
+- [Project 2](##Project 2)
+- [Project 3](##Project 3)
 
 # CV
 ## Professional Summary
