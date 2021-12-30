@@ -58,13 +58,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## <a id="1"></a>CV
 ### <a id="1.1"></a>Professional Experience
-
 #### Edward Jones
-  <b>Data Analyst</b> <i>February 2020 - Present</i>
-Saint Louis, MO
-•	Lead annual pricing review initiatives to benchmark company pricing policies and generate scenario analyses for pricing changes.
-•	Conduct pain point research analysis by creating a practice impact calculator, developing KPIs, and leveraging economic models in efforts to research new business proposals.
-•	Support ad hoc and peer review requests for multiple projects, including fee analysis, strategic advisor program migration, money laundering detection, client lifetime value analysis, and DEI initiative design and analysis.
+  <b>Data Analyst</b> <i>February 2020 - Present</i> <br/>
+Saint Louis, MO <br/>
+- Lead annual pricing review initiatives to benchmark company pricing policies and generate scenario analyses for pricing changes.
+- Conduct pain point research analysis by creating a practice impact calculator, developing KPIs, and leveraging economic models in efforts to research new business proposals.
+- Support ad hoc and peer review requests for multiple projects, including fee analysis, strategic advisor program migration, money laundering detection, client lifetime value analysis, and DEI initiative design and analysis.
   
 
 
