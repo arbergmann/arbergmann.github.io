@@ -43,17 +43,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## CV
 ### Professional Summary
-A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies.
+A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies. Hoping to continue on my career path to pursue a more data science-centric role, preferably in the BI domain.
 
 ### Professional Experience
-#### <b>Edward Jones<b/>
+#### <b>Edward Jones<b/><span style="color:blue">some *blue* text</span>.
 <b>Data Analyst</b><br/>
 <i>February 2020 - Present</i><br/>
 Saint Louis, MO <br/>
 - Lead annual pricing review initiatives to benchmark company pricing policies and generate scenario analyses for pricing changes.
 - Conduct pain point research analysis by creating a practice impact calculator, developing KPIs, and leveraging economic models in efforts to research new business proposals.
 - Support ad hoc and peer review requests for multiple projects, including fee analysis, strategic advisor program migration, money laundering detection, client lifetime value analysis, and DEI initiative design and analysis.
-  
+
+
 #### <b>FEFA, LLC<b/>
 <b>Director of Asset Management</b> <br/>
 <i>June 2019 - January 2020</i><br/>
@@ -61,23 +62,23 @@ Saint Louis, MO <br/>
 - Oversaw all operations, portfolio management, compliance procedures, and quantitative analytics for FEFA Asset Management.
 - Collaborated with senior management team to develop and adapt sales processes, company policies, and address any personnel concerns.
 <br/>
-
 <b>Assistant Director of Asset Management, Senior Investment Analyst</b> <br/>
 <i>October 2018 - June 2019</i><br/>
 - Created process for researching, building, and managing all 30+ company portfolios.
 - Automated asset management processes, including account information audits, portfolio tracking and management, and form submissions.
 <br/>
-
 <b>Retirement Strategist</b> <br/>
 <i>March 2018 - September 2018</i><br/>
 - Led workshops and one-on-one retirement prep counseling sessions for federal employees 
 
+  
 #### <b>Salarium Trading, LLC<b/>
 <b>Co-Founder, Head Trader</b><br/>
 <i>October 2017 - April 2018</i><br/>
 Kansas City, MO <br/>
 - Co-founded a proprietary, algorithmically-based trading LLC specializing in swing trading strategies for U.S. equities and cryptocurrencies.
 - Built strategies, databases, risk management systems, self-balancing portfolio algorithms, and trading architectures from scratch using primarily Python.
+
 
 #### <b>Tradebot Systems, LLC<b/>
 <b>Financial Analyst</b><br/>
