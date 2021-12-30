@@ -62,12 +62,12 @@ Saint Louis, MO <br/>
 Saint Louis, MO <br/>
 - Oversaw all operations, portfolio management, compliance procedures, and quantitative analytics for FEFA Asset Management.
 - Collaborated with senior management team to develop and adapt sales processes, company policies, and address any personnel concerns.
-<br/>
+
 <b>Assistant Director of Asset Management, Senior Investment Analyst</b> <br/>
 <i>October 2018 - June 2019</i><br/>
 - Created process for researching, building, and managing all 30+ company portfolios.
 - Automated asset management processes, including account information audits, portfolio tracking and management, and form submissions.
-<br/>
+
 <b>Retirement Strategist</b> <br/>
 <i>March 2018 - September 2018</i><br/>
 - Led workshops and one-on-one retirement prep counseling sessions for federal employees 
