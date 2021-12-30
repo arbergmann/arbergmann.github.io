@@ -45,7 +45,7 @@ Kansas City, MO <br/>
 - Designed an exit strategy based on an alpha decay model to improve capture rate.
 - Developed a Jupyter library of technical analysis indicators and corresponding optimal parameters strategies.
 
-### Skills
+## Skills
 <b>Languages/Programs</b>
 - Python (pandas, numpy, scikit-learn, statsmodels, matplotlib, pySpark, Altair)
 - SQL, PostgreSQL, Oracle
@@ -62,22 +62,22 @@ Kansas City, MO <br/>
   
 <b>Currently Studying:</b> PowerBI, Snowflake/Azure/Cloud Computing and Storage, Spark/Hadoop 
 
-### Education
-#### University of Michigan, School of Information
+## Education
+### University of Michigan, School of Information
 <b>Master of Applied Data Science</b><br/>
 <i>September 2019 - December 2021</i>
 - Inaugural Cohort
 - Pioneer Scholarship
 - Finance Data Science Club
   
-#### University of Missouri
+### University of Missouri
 <b>Master of Business Administration, Emphasis in Finance</b><br/>
 <i>September 2015 -  May 2017</i>
 - Graduate Teaching Assistant, Department and Sales Program
 - John Sublett Logan MBA Scholarship
 - Trulaske College of Business Crosby MBA Toyota Case Competition Winner
   
-#### University of Kansas, School of Architecture, Design, and Planning
+### University of Kansas, School of Architecture, Design, and Planning
 <b>Bachelor of Arts in Architecture</b><br/>
 <i>September 2011 -  August 2014</i>
 - Monsters of Design Award, Contract Inspirations Award for Practice, AIA Kansas Excellence in Architecture Design Award, AIA Kansas Concept Honor Award
