@@ -103,28 +103,3 @@ Kansas City, MO <br/>
   
 ## <a name="proj3"></a>Project 3
   Content tbd
-<!--
-
-## Table of Contents
-<ol type="I">
-    <li><a href="#1">CV</a></li>
-    <ul>
-        <li><a href="#1.1">1.1 Professional Summary</a></li>
-        <li><a href="#1.2">1.2 Professional Experience</a></li>
-        <li><a href="#1.3">1.3 Skills</a></li>
-        <li><a href="#1.4">1.4 Education</a></li>
-        <li><a href="#1.5">1.5 Awards & Other</a></li>
-    </ul>
-    <li><a href="#2">Project Samples</a></li>
-    <ul>
-        <li><a href="#2.1">2.1 TBD</a></li>
-        <li><a href="#2.2">2.1 TBD</a></li>
-</ol>    
-
-## <a id="1"></a>CV
-    
-### <a id="1.1"></a>Professional Summary
-A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies.
-
-### <a id="1.2"></a>Professional Experience
-#### <b>Edward Jones<b/>
