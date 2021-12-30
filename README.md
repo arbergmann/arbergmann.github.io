@@ -46,7 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies. Hoping to continue on my career path to pursue a more data science-centric role, preferably in the BI domain.
 
 ### Professional Experience
-#### <b>Edward Jones<b/><span style="color:blue">some *blue* text</span>.
+#### <b><span style="color:blue">Edward Jones</span>.<b/>
 <b>Data Analyst</b><br/>
 <i>February 2020 - Present</i><br/>
 Saint Louis, MO <br/>
