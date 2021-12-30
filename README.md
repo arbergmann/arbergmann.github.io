@@ -57,7 +57,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ## <a id="1"></a>CV
-### <a id="1.1"></a>Professional Experience
+    
+### <a id="1.1"></a>Professional Summary
+A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies.
+
+### <a id="1.2"></a>Professional Experience
 #### <b>Edward Jones<b/>
 <b>Data Analyst</b><br/>
 <i>February 2020 - Present</i><br/>
