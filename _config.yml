@@ -8,5 +8,11 @@ subtitle: Data Scientist, Stock/Crypto Algorithmic Trading Enthusiast
 # Your name to show in the footer
 author: Allison Bergmann
 
-
+# Google Analytics
 google_analytics: "G-KM29CNVYG4"
+
+# Contact/Social Media
+social-network-links:
+  email: "11arbergmann@gmail.com"
+  linkedin: arbergmann
+  github: arbergmann
