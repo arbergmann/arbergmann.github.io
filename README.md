@@ -138,7 +138,7 @@ This was an early project in the program, designed to create a data pipeline tha
 | PNC  |$104.90 ($101.09 adj)|$194.50 ($193.29 adj)| 91.2%           |
 | KIM  |$11.22 ($10.76 adj)  |$21.60 ($21.44 adj)  | 99.3%           |
 
-Given the success of the returns, I am in the process developing the Jupyter Notebook scripts into more OOP code, and the script is in paper trading for long-term efficacy in changing markets. Exit strategies are being researched in a back testing framework. Next steps include integration into bots for trading signals, or, regulations permitting, active trading bots.
+Given the success of the returns, I am in the process of refactoring the Jupyter Notebook scripts into OOP-based code instead of functions, and the selected securities (both these and subsequent iterations of the script outputs) are in paper trading for long-term efficacy in changing markets. Exit strategies are being researched in a back testing framework. Next steps include integration into bots for trading signals, or, regulations permitting, active trading bots.
    
 Personal contributions to this project include data acquisition, data preprocessing, the final write-up, and the bulk of code development given my experience in finance.
    
