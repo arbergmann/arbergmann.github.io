@@ -111,8 +111,9 @@ This project aims to perform a survey of financial forecasting techniques with m
    
 Personal contributions to this project include data acquisition, feature engineering, data preprocessing, linear/univariate and Random Forest model creation, final reporting, and approach consulting as the industry veteran of the team.
    
-[Project Report](https://augurychris.github.io/financial_forecasting_analysis/)</br>
-[Project Repository](https://github.com/auguryChris/financial_forecasting_analysis)</br>
+[Project Report](https://augurychris.github.io/financial_forecasting_analysis/)
+</br>
+[Project Repository](https://github.com/auguryChris/financial_forecasting_analysis)
    
 (<b>Note:</b> This dataset contains proprietary data that cannot be shared publicly, so certain aspects of the code may not be able to be reproduced if run independently.)
   
@@ -133,8 +134,9 @@ Given the success of the returns, I am in the process developing the Jupytern No
    
 Personal contributions to this project include data acquisition, data preprocessing, the final write-up, and the bulk of code development given my experience in finance.
    
-[Project Report](https://github.com/arbergmann/value_stock_screener/blob/main/Value_Stock_Screener/Value%20Investing%20Stock%20Picks%20-%20Final%20Report.pdf)</br>
-[Project Repository](https://github.com/arbergmann/value_stock_screener)</br>
+[Project Report](https://github.com/arbergmann/value_stock_screener/blob/main/Value_Stock_Screener/Value%20Investing%20Stock%20Picks%20-%20Final%20Report.pdf)
+</br>
+[Project Repository](https://github.com/arbergmann/value_stock_screener)
    
 (<b>Note:</b> This dataset contains proprietary data that cannot be shared publicly, so certain aspects of the code may not be able to be reproduced if run independently.)
   
