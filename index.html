@@ -41,7 +41,6 @@
 </script>
 
 
-
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
@@ -67,7 +66,7 @@
       </header>
       <section>
 
-      <h2 id="table-of-contents">Table of Contents</h2>
+      <h2 id="table-of-contents"><a name="toc"></a>Table of Contents</h2>
 <ol>
   <li><a href="#cv">CV</a>
     <ul>
@@ -75,12 +74,13 @@
       <li><a href="#prof-experience">Professional Experience</a></li>
       <li><a href="#skills">Skills</a></li>
       <li><a href="#education">Education</a></li>
+      <li><a href="#references">References</a></li>
     </ul>
   </li>
   <li><a href="#projects">Projects</a>
     <ul>
-      <li><a href="#proj1">Project 1</a></li>
-      <li><a href="#proj2">Project 2</a></li>
+      <li><a href="#proj1">Financial Forecasting and Backtesting with Machine Learning (Capstone Project)</a></li>
+      <li><a href="#proj2">Value Stock Screener (Milestone I Project)</a></li>
       <li><a href="#proj3">Project 3</a></li>
     </ul>
   </li>
@@ -88,7 +88,7 @@
 
 <h1 id="cv"><a name="cv"></a>CV</h1>
 <h2 id="professional-summary"><a name="prof-summary"></a>Professional Summary</h2>
-<p>A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies. Hoping to continue on my career path to pursue a more data science-centric role, preferably in the BI domain.</p>
+<p>A self-motivated and results-oriented recent data science graduate with 4+ years of data analytics experience in the business development and business intelligence space. Experience with large data sets and developing data-driven insights for early-stage fintech and Fortune 500 companies. Hoping to continue on my career path to pursue a more data science-centric role, preferably in the BI or equity trading domain.</p>
 
 <h2 id="professional-experience"><a name="prof-experience"></a>Professional Experience</h2>
 <h3 id="edward-jones"><b><span style="color:#0C54A4">Edward Jones</span></b></h3>
@@ -96,9 +96,16 @@
 Saint Louis, MO <br />
 <b>Data Analyst</b></p>
 <ul>
-  <li>Lead annual pricing review initiatives to benchmark company pricing policies and generate scenario analyses for pricing changes.</li>
-  <li>Conduct pain point research analysis by creating a practice impact calculator, developing KPIs, and leveraging economic models in efforts to research new business proposals.</li>
-  <li>Support ad hoc and peer review requests for multiple projects, including fee analysis, strategic advisor program migration, money laundering detection, client lifetime value analysis, and DEI initiative design and analysis.</li>
+  <li>Led annual pricing review initiatives to benchmark company pricing policies and generated scenario analyses for future pricing changes. This effort led to a nearly year-long evaluation of present and future/long-term pricing strategies.</li>
+  <li>Conducted pain point research analysis for future business strategy consideration.</li>
+  <li>Created a dynamic practice impact calculator to determine changing industry effects on branches for varying business strategies. The calculator was leveraged for the production of a branch-facing tool to provide significant value to the field. This project utilized analytical acumen as it pertains to database capacity, best practices for calculation logics, and branch practice business acumen.</li>
+  <li>Worked with business owners and project leaders to develop KPIs, and leverage economic models in efforts to research new business strategy proposals.</li>
+  <li>Consulted on a DEI initiative design and analysis for financial advisor groups. This included conducting propensity scoring, control group design, A/B testing, and subsequent initiative efficacy analysis in Python.</li>
+  <li>Assisted in the review of a previous focus client measure and supervised learning model to ensure continued feature relevance and potential use cases in other future business developments. This review also included the exploration of gaps and opportunities for the model going forward, and any potential road blocks in potential analyses. This project required significant ETL capabilities and data source acumen.</li>
+  <li>Peer reviewed an LOA / Money Laundering detection initiative that ultimately impacts and strives to protect over $12 million in potentially affected client funds.</li>
+  <li>Assisted with development, scenario modeling, and peer review of a program migration model for potential future business segments, where over $1T of client funds and approximately 19,000 advisors would be affected by program parameters.</li>
+  <li>Facilitated supporting redundancies in Python for a supervised and unsupervised learning client lifetime value project generated in R, for future business purposes.</li>
+  <li>Developed a workbook library for basic Python training, as well as collaborated on repositories containing code snippets and parameters for best practices.</li>
 </ul>
 
 <h3 id="fefa-llc"><b><span style="color:#0C54A4">FEFA, LLC.</span></b></h3>
@@ -140,7 +147,13 @@ Kansas City, MO <br />
   <li>Developed a Jupyter library of technical analysis indicators and corresponding optimal parameters strategies.</li>
 </ul>
 
-<h2 id="skills"><a name="skills"></a>Skills</h2>
+<h2 id="skills--certifications"><a name="skills"></a>Skills &amp; Certifications</h2>
+<p><b>Certifications</b></p>
+<ul>
+  <li>Series 65</li>
+  <li>Google Analytics Individual Qualification <a href="https://skillshop.exceedlms.com/student/award/gSjMPAqngZTAwcDdY2ogRYsQ">Completion ID: 37660920</a></li>
+</ul>
+
 <p><b>Languages/Programs</b></p>
 <ul>
   <li>Python (pandas, numpy, scikit-learn, statsmodels, matplotlib, pySpark, Altair)</li>
@@ -189,15 +202,91 @@ Kansas City, MO <br />
   <li>Study Abroad in Florence, Italy (Class focus in Language and Arts)</li>
 </ul>
 
-<h1 id="projects"><a name="projects"></a>Projects</h1>
-<h2 id="project-1"><a name="proj1"></a>Project 1</h2>
-<p>Content tbd</p>
+<h2 id="references"><a name="references"></a>References</h2>
+<p><i>References available upon request.</i></p>
 
-<h2 id="project-2"><a name="proj2"></a>Project 2</h2>
-<p>Content tbd</p>
+<hr />
+
+<h1 id="projects"><a name="projects"></a>Projects</h1>
+<h2 id="financial-forecasting-and-backtesting-with-machine-learning-capstone-project"><a name="proj1"></a>Financial Forecasting and Backtesting with Machine Learning (Capstone Project)</h2>
+<p>This project aims to perform a survey of financial forecasting techniques with machine learning for use in stock price prediction. To reduce noise in the predictions, we decided to predict the following day’s high price from the current day’s closing price. Additionally, this also allows for ability to potentially generate alpha in actual application, despite a potential negative return day-over-day. The predictions are then run through a strategy back tester as a form of cross-validation and efficacy testing. Interestingly, success in prediction does not always correlate to success in practical trading.</p>
+
+<p>Personal contributions to this project include data acquisition, feature engineering, data preprocessing, linear/univariate and Random Forest model creation, final reporting, and approach consulting as the industry veteran of the team.</p>
+
+<p><a href="https://augurychris.github.io/financial_forecasting_analysis/">Project Report</a></p>
+
+<p><a href="https://github.com/auguryChris/financial_forecasting_analysis">Project Repository</a></p>
+
+<p>(<b>Note:</b> This dataset contains proprietary data that cannot be shared publicly, so certain aspects of the code may not be able to be reproduced if run independently.)</p>
+
+<h2 id="value-stock-screener-milestone-i-project"><a name="proj2"></a>Value Stock Screener (Milestone I Project)</h2>
+<p>This was an early project in the program, designed to create a data pipeline that scraped for the current S&amp;P 500 ticker list, pulled data from Quandl (now Nasdaq) and Yahoo! Finance, and then through modular code filters for value stocks and returns a dataframe report of possible options and corresponding investing metrics.</p>
+
+<p>1-Year returns from the stocks listed in the report were as follows (adj. prices as of 12/2021):</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th style="text-align: center">Price 09-25-2020</th>
+      <th style="text-align: center">Price 09-24-2021</th>
+      <th style="text-align: center">Return (Adj.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MET</td>
+      <td style="text-align: center">$36.26 ($34.69 adj)</td>
+      <td style="text-align: center">$61.36 ($60.90 adj)</td>
+      <td style="text-align: center">75.6%</td>
+    </tr>
+    <tr>
+      <td>XRX</td>
+      <td style="text-align: center">$17.98 ($16.98 adj)</td>
+      <td style="text-align: center">$20.77 ($20.52 adj)</td>
+      <td style="text-align: center">20.8%</td>
+    </tr>
+    <tr>
+      <td>HIG</td>
+      <td style="text-align: center">$35.80 ($34.36 adj)</td>
+      <td style="text-align: center">$69.40 ($69.01 adj)</td>
+      <td style="text-align: center">100.8%</td>
+    </tr>
+    <tr>
+      <td>MS</td>
+      <td style="text-align: center">$47.04 ($45.61 adj)</td>
+      <td style="text-align: center">$102.91 ($102.20 adj)</td>
+      <td style="text-align: center">124.1%</td>
+    </tr>
+    <tr>
+      <td>PNC</td>
+      <td style="text-align: center">$104.90 ($101.09 adj)</td>
+      <td style="text-align: center">$194.50 ($193.29 adj)</td>
+      <td style="text-align: center">91.2%</td>
+    </tr>
+    <tr>
+      <td>KIM</td>
+      <td style="text-align: center">$11.22 ($10.76 adj)</td>
+      <td style="text-align: center">$21.60 ($21.44 adj)</td>
+      <td style="text-align: center">99.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Given the success of the returns, I am in the process of refactoring the Jupyter Notebook scripts into OOP-based code instead of functions, and the selected securities (both these and subsequent iterations of the script outputs) are in paper trading for long-term efficacy in changing markets. Exit strategies are being researched in a back testing framework. Next steps include integration into bots for trading signals, or, regulations permitting, active trading bots.</p>
+
+<p>Personal contributions to this project include data acquisition, data preprocessing, the final write-up, and the bulk of code development given my experience in finance.</p>
+
+<p><a href="https://github.com/arbergmann/value_stock_screener/blob/main/Value_Stock_Screener/Value%20Investing%20Stock%20Picks%20-%20Final%20Report.pdf">Project Report</a></p>
+
+<p><a href="https://github.com/arbergmann/value_stock_screener">Project Repository</a></p>
+
+<p>(<b>Note:</b> This dataset contains proprietary data that cannot be shared publicly, so certain aspects of the code may not be able to be reproduced if run independently.)</p>
 
 <h2 id="project-3"><a name="proj3"></a>Project 3</h2>
 <p>Content tbd</p>
+
+<p><a href="#toc">Back to Top</a></p>
 
 
       </section>
