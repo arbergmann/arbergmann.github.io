@@ -4,6 +4,7 @@
     * [Professional Experience](#prof-experience)
     * [Skills](#skills)
     * [Education](#education)
+    * [References](#references)
 2. [Projects](#projects)
     * [Financial Forecasting and Backtesting with Machine Learning (Capstone Project)](#proj1)
     * [Value Stock Screener (Milestone I Project)](#proj2)
@@ -104,6 +105,11 @@ Kansas City, MO <br/>
 <i>September 2011 -  August 2014</i>
 - Monsters of Design Award, Contract Inspirations Award for Practice, AIA Kansas Excellence in Architecture Design Award, AIA Kansas Concept Honor Award
 - Study Abroad in Florence, Italy (Class focus in Language and Arts)
+
+## <a name="references"></a>References
+<i>References available upon request.</i> 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # <a name="projects"></a>Projects
 ## <a name="proj1"></a>Financial Forecasting and Backtesting with Machine Learning (Capstone Project)
