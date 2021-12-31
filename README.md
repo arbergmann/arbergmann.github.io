@@ -1,4 +1,4 @@
-## Table of Contents
+## <a name="toc"></a>Table of Contents
 1. [CV](#cv)
     * [Professional Summary](#prof-summary)
     * [Professional Experience](#prof-experience)
@@ -151,3 +151,5 @@ Personal contributions to this project include data acquisition, data preprocess
   
 ## <a name="proj3"></a>Project 3
   Content tbd
+
+[Back to Top](#toc)
