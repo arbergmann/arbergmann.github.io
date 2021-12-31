@@ -121,6 +121,7 @@ Personal contributions to this project include data acquisition, feature enginee
 This was an early project in the program, designed to create a data pipeline that scraped for the current S&P 500 ticker list, pulled data from Quandl (now Nasdaq) and Yahoo! Finance, and then through modular code filters for value stocks and returns a dataframe report of possible options and corresponding investing metrics. 
    
 1-Year returns from the stocks listed in the report were as follows (adj. prices as of 12/2021):
+
 |Symbol| Price 09-25-2020 | Price 09-24-2021 | Return (Adj.) |
 | ---- |:-------------------:|:-------------------:|:---------------:|
 | MET  |$36.26 ($34.69 adj)  |$61.36 ($60.90 adj)  | 75.6%           |
