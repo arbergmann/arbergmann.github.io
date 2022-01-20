@@ -311,7 +311,7 @@
                         <p class="card-text">This was an early project in the program, designed to create a data pipeline that scraped for the current S&amp;P 500 ticker list, pulled data from Quandl (now Nasdaq) and Yahoo! Finance, and then through modular code filters for value stocks and returns a dataframe report of possible options and corresponding investing metrics.</p>
                         <p>1-Year returns from the stocks listed in the report were as follows (adj. prices as of 12/2021):</p>
 
-                        <table class="center">
+                        <table class="table">
                           <thead>
                             <tr>
                               <th>Symbol</th>
@@ -359,7 +359,7 @@
                             </tr>
                           </tbody>
                         </table>
-                        
+                        </br >
                         <p class="card-text">Given the success of the returns, I am in the process of refactoring the Jupyter Notebook scripts into OOP-based code instead of functions, and the selected securities (both these and subsequent iterations of the script outputs) are in paper trading for long-term efficacy in changing markets. Exit strategies are being researched in a back testing framework. Next steps include integration into bots for trading signals, or, regulations permitting, active trading bots.</p>
                         
                         <a href="https://arbergmann.github.io/value_stock_screener/" target="_blank" class="btn btn-primary">Project Report</a>
